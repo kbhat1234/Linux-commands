@@ -1,3 +1,5 @@
 welcome to git
 adding from mumbai
 updating the file from mumbai
+adding the same from singapore
+welcome to git
